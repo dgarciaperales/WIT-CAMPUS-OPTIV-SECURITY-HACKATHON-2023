@@ -25,8 +25,8 @@ We would like to express our gratitude to the organizers of the WIT CAMPUS + OPT
 
 Connect with Us:
 Feel free to connect with us or reach out for any questions, collaborations, or discussions related to our participation in the hackathon.
-Member LinkedIn's: 
-https://www.linkedin.com/in/diana-garcia-perales-gatech/
-https://www.linkedin.com/in/lee-sue/
-https://www.linkedin.com/in/rubenauyeh/
-https://www.linkedin.com/in/jenny-huynh-5ab5b9253/
+Members LinkedIn's: 
+- https://www.linkedin.com/in/diana-garcia-perales-gatech/
+- https://www.linkedin.com/in/lee-sue/
+- https://www.linkedin.com/in/rubenauyeh/
+- https://www.linkedin.com/in/jenny-huynh-5ab5b9253/
